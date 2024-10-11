@@ -1,0 +1,80 @@
+.google{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 300px;
+}
+.googleLogo{
+    height: 100px;
+    width: 300px;
+    background-image: url(/app/googlelogo.jpg);
+    background-size: cover;
+}
+.bar{
+    display: flex;
+    align-items: center;
+    background-color: rgb(2, 34, 8);
+    border-radius: 40px;
+    height: 55px;
+    width: 750px;
+    &:hover{box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);}
+}
+.input{
+    border: 2px solid rgb(2, 34, 2);
+    height: 50px;
+    width: 700px;
+    background-color: rgb(2, 34, 2);
+    &:focus{
+        border: none;
+        outline: none;
+        color: white;
+    }
+}
+.searchLogo{
+    color: rgb(129, 129, 129);
+    width: 40px;
+    text-align: center;
+}
+.mic{
+    color: rgb(38, 83, 247);
+    text-align: center;
+    width: 45px;
+}
+.camera{
+    color: rgb(249, 36, 36);
+    text-align: center;
+    width: 45px;
+}
+.buttons{
+    height: 35px;
+    width: 400px;
+    display: flex;
+    justify-content: space-around;
+}
+.button1{
+    height: 35px;
+    width: 150px;
+    font-size: 0.9em;
+    border: none;
+    &:hover{
+        border: 1px solid rgb(168, 166, 166);
+    }
+}
+.button2{
+    height: 35px;
+    width: 150px;
+    font-size: 0.9em;
+    border: none;
+    &:hover{
+        border: 1px solid rgb(168, 166, 166);
+    }
+}
+.lang{
+    margin: 3px;
+    text-decoration: none;
+    &:hover{
+        text-decoration: underline;
+    }
+}
