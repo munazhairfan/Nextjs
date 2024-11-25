@@ -205,7 +205,7 @@ const page = () => {
         </div>
         <div className='flex flex-col w-full h-[1690px] gap-20 xl:h-[1132px] lg:h-[650px]'>
           <div className='flex flex-col gap-14 w-full h-[1690px] xl:h-[534px] lg:h-[650px] items-center
-          xl:flex-row xl:gap-16 lg:justify-around lg:flex-row lg:w-full'>
+          xl:flex-row xl:gap-16 lg:justify-evenly lg:flex-row lg:w-full'>
           {/* course 1 */}
           <div className='bg-[#f7f7f7] rounded-[5px] w-[380px] h-[558px]'>
             <div><Image src={'/images/course1.png'} alt='course1' width={380} height={300}></Image></div>
