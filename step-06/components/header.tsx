@@ -44,7 +44,7 @@ const header = () => {
                 <Button className='bg-black text-white'>Sign Up</Button>
               </div>
             </div>
-            <div className='w-12 h-12 xl:hidden lg:hidden'><Image src={'/images/vector5.png'} alt='bars' width={48} height={48}></Image></div>
+            <div className='w-12 h-12 xl:hidden lg:hidden'><Image src={'/images/Vector5.png'} alt='bars' width={48} height={48}></Image></div>
         </div>
     </div>
     </>
