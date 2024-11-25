@@ -467,7 +467,7 @@ const page = () => {
         {/* customer 1 */}
         <div className='w-[380px] h-[321.89px] flex flex-col gap-8 border-[2px] border-black p-5'>
           {/* stars */}
-          <div><Image src={'/images/stars.png'} alt='stars' width={116} height={18.89}></Image></div>
+          <div><Image src={'/images/Stars.png'} alt='stars' width={116} height={18.89}></Image></div>
           <div className='w-[316px] h-[215px] flex flex-col gap-6'>
             <div>
               <p className='text-[18px] leading-[27px]'>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;</p>
@@ -486,7 +486,7 @@ const page = () => {
         {/* customer 2 */}
         <div className='w-[380px] h-[321.89px] hidden xl:flex flex-col gap-8 border-[2px] border-black p-5'>
           {/* stars */}
-          <div><Image src={'/images/stars.png'} alt='stars' width={116} height={18.89}></Image></div>
+          <div><Image src={'/images/Stars.png'} alt='stars' width={116} height={18.89}></Image></div>
           <div className='w-[316px] h-[215px] flex flex-col gap-6'>
             <div>
               <p className='text-[18px] leading-[27px]'>&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare.&quot;</p>
