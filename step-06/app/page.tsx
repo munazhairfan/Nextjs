@@ -257,7 +257,7 @@ const page = () => {
           <div className='bg-[#f7f7f7] rounded-[5px] lg:w-[380px] w-[320px] h-[558px] lg:hidden xl:block '>
             <div><Image src={'/images/course3.png'} alt='course3' width={380} height={300}></Image></div>
             <div className='lg:w-[380px] w-[320px] h-[240px] flex flex-col gap-2 place-items-center justify-center'>
-              <div className='lg:w-[348px] w-[288px] h-[260px] flex flex-col gap-2 mt-2'>
+              <div className='lg:w-[348px] w-[288px] h-[260px] lg:h-[146px] flex flex-col gap-2 mt-2 lg:mt-0'>
                 <div className='flex'>
                 <p className='text-[14px] leading-[21px] font-semibold'>Business</p>
                 <div className='flex ml-auto items-center'>
