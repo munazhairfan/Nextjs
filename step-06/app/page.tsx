@@ -285,13 +285,13 @@ const page = () => {
             <div className='w-[380px] h-[234px] flex flex-col gap-2 place-items-center justify-center'>
               <div className='w-[348px] h-[146px] flex flex-col gap-2'>
                 <div className='flex'>
-                <p className='text-[14px] leading-[21px] font-semibold'>Design</p>
+                <p className='text-[14px] leading-[21px] font-semibold'>Art</p>
                 <div className='flex ml-auto items-center'>
                   <Image src={'/images/Star 1.png'} alt='star' width={18} height={18}></Image>
                   <p className='text-[14px] leading-[21px] font-semibold ml-1'>5.0 </p>
                   </div>
                   </div>
-                <p className='font-bold text-[24px] leading-[33.6px]'>UX/UI Design 201</p>
+                <p className='font-bold text-[24px] leading-[33.6px]'>Art Specialization</p>
                 <p className='leading-6 text-[16px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.</p>
               </div>
               <div className='flex gap-12 items-center w-[348px] h-10'>
@@ -308,13 +308,13 @@ const page = () => {
             <div className='w-[380px] h-[234px] flex flex-col gap-2 place-items-center justify-center'>
               <div className='w-[348px] h-[146px] flex flex-col gap-2'>
                 <div className='flex'>
-                <p className='text-[14px] leading-[21px] font-semibold'>Design</p>
+                <p className='text-[14px] leading-[21px] font-semibold'>Law</p>
                 <div className='flex ml-auto items-center'>
                   <Image src={'/images/Star 1.png'} alt='star' width={18} height={18}></Image>
                   <p className='text-[14px] leading-[21px] font-semibold ml-1'>5.0 </p>
                   </div>
                   </div>
-                <p className='font-bold text-[24px] leading-[33.6px]'>UX/UI Design 201</p>
+                <p className='font-bold text-[24px] leading-[33.6px]'>Rule of Law</p>
                 <p className='leading-6 text-[16px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.</p>
               </div>
               <div className='flex gap-12 items-center w-[348px] h-10'>
@@ -331,13 +331,13 @@ const page = () => {
             <div className='w-[380px] h-[234px] flex flex-col gap-2 place-items-center justify-center'>
               <div className='w-[348px] h-[146px] flex flex-col gap-2'>
                 <div className='flex'>
-                <p className='text-[14px] leading-[21px] font-semibold'>Design</p>
+                <p className='text-[14px] leading-[21px] font-semibold'>Tech</p>
                 <div className='flex ml-auto items-center'>
                   <Image src={'/images/Star 1.png'} alt='star' width={18} height={18}></Image>
                   <p className='text-[14px] leading-[21px] font-semibold ml-1'>5.0 </p>
                   </div>
                   </div>
-                <p className='font-bold text-[24px] leading-[33.6px]'>UX/UI Design 201</p>
+                <p className='font-bold text-[24px] leading-[33.6px]'>Introduction to webflow</p>
                 <p className='leading-6 text-[16px]'>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros.</p>
               </div>
               <div className='flex gap-12 items-center w-[348px] h-10'>
